@@ -203,7 +203,7 @@ src/
 
 ## 👨‍💻 Авторы
 
-- **Ваше имя** - *Инициальная работа* - [Ваш GitHub](https://github.com/yourusername)
+- **𝖘𝖍3𝖛.𝖍𝖉** - *Инициальная работа* - [Ваш GitHub]([https://github.com/sh3vhd])
 
 ## 🙏 Благодарности
 
@@ -211,12 +211,6 @@ src/
 - [TailwindCSS](https://tailwindcss.com/) - Утилитарный CSS фреймворк
 - [Recharts](https://recharts.org/) - Библиотека графиков
 - [Lucide Icons](https://lucide.dev/) - Иконки
-
-## 📞 Контакты
-
-- Email: your.email@example.com
-- Telegram: @yourusername
-- Website: https://yourwebsite.com
 
 ---
 
